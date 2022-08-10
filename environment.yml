@@ -5,6 +5,7 @@ channels:
   - conda-forge
   - resurfemg
 dependencies:
+  - python 3.8.6
   - resurfemg
   - ipympl
   - ipywidgets=7.7.0
