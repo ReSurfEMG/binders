@@ -1,0 +1,19 @@
+#  environment document
+
+python 3.8.6
+resurfemg
+ipympl
+ipywidgets=7.7.0
+jupyter
+matplotlib=3.3.3
+notebook
+numexpr=2.7.3
+numpy
+pandas
+pyxdf
+
+
+
+
+
+  
