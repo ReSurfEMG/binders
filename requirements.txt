@@ -1,6 +1,6 @@
 #  environment document
 
-resurfemg
+resurfemg==0.0.4
 ipympl
 ipywidgets==7.7.0
 jupyter
