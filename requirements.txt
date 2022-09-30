@@ -9,6 +9,9 @@ numexpr
 numpy
 pandas
 pyxdf
+scipy==1.7.1
+neurokit2
+
 
 
 
