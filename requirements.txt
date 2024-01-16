@@ -1,6 +1,6 @@
 #  environment document
 
-resurfemg==0.0.4
+resurfemg==0.2.0
 ipympl
 ipywidgets==7.7.0
 jupyter
@@ -9,12 +9,7 @@ numexpr
 numpy
 pandas
 pyxdf
-scipy==1.7.1
-neurokit2
-
-
-
-
-
+scipy>=1.7.1
+neurokit2=0.2.7
 
   
