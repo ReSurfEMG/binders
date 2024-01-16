@@ -10,6 +10,6 @@ numpy
 pandas
 pyxdf
 scipy>=1.7.1
-neurokit2=0.2.7
+neurokit2==0.2.7
 
   
