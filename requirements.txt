@@ -1,5 +1,5 @@
 #  environment document
-python==3.9
+python>=3.9
 resurfemg==0.2.1
 ipympl
 ipywidgets==7.7.0
