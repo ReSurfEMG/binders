@@ -16,7 +16,9 @@ Two notebooks accompany this publication. Click the associated buttons to direct
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/e773c90655927f6c7b06df8e97ebc76dbde290c8?urlpath=lab%2Ftree%2Fneuromuscular_coupling_quality_assessment_for_pub_synthetic_data.ipynb) - Synthethic data  
     This binder generates synthetic data inline and allows for quick evaluation of the data analysis methodology in the paper.
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/e773c90655927f6c7b06df8e97ebc76dbde290c8?urlpath=lab%2Ftree%2Fneuromuscular_coupling_quality_assessment_for_pub.ipynb) - Load data  
-    This binder imports data from 'synthetic_data' folder. When downloaded and run in an environment as specified in the environment.yml file, the script can be run with your own data.  To to so, take the following steps:
+    This binder imports data from 'synthetic_data' folder. 
+-   Run with your own data  
+    When downloaded and run in an environment as specified in the environment.yml file, the script can be run with your own data.  To to so, take the following steps:
     - Install a [Conda](https://docs.conda.io/projects/miniconda/en/latest/) version compatatible with your system.
     - Run the Conda command prompt
     - Create a Conda environment
