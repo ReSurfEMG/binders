@@ -1,0 +1,12 @@
+version: "0"
+services:
+  resurfemg-binder:
+    build: .
+    volumes:
+      - .:/usr/srs/app/
+    ports: 
+      - 8888:8888
+    expose:
+      - 8888
+    # command:
+    #   - /usr/local/share/jupyter/nbextension enable --py widgetsnbextension
