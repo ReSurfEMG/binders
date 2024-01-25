@@ -15,7 +15,7 @@ The binder consist of several notebooks. To go to the main landing page of the b
 Two notebooks accompany this publication. Click the associated buttons to directly go to these binders:
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/blob/main/neuromuscular_coupling_quality_assessment_for_pub_synthetic_data.ipynb/ReSurfEMG/binders/tree/main?labpath=neuromuscular_coupling_quality_assessment_for_pub_synthetic_data.ipynb) - Synthethic data  
     This binder generates synthetic data inline and allows for quick evaluation of the data analysis methodology in the paper.
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/blob/main/neuromuscular_coupling_quality_assessment_for_pub.ipynb/ReSurfEMG/binders/tree/main?labpath=neuromuscular_coupling_quality_assessment_for_pub_synthetic_data.ipynb) - Load data  
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/e773c90655927f6c7b06df8e97ebc76dbde290c8?urlpath=lab%2Ftree%2Fneuromuscular_coupling_quality_assessment_for_pub.ipynb) - Load data  
     This binder imports data from the 'synthetic_data' folder, and runs as it would with 'real' patient data. 
 -   Run with your own data  
     When downloaded and run in an environment as specified in the environment.yml file, the script can be run with your own data.  To to so, take the following steps:
