@@ -11,7 +11,7 @@ Binders are integrated packages of code that run online in a webbrowser. In that
 The binder consist of several notebooks. To go to the main landing page of the binder, click this button:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/main)
 
-## *Advanced waveform analysis of the diaphragm surface EMG for continuous non-invasive assessment of the respiratory effort in critically ill patients at different PEEP levels*
+## *Advanced waveform analysis of diaphragm surface EMG allows for continuous non-invasive assessment of respiratory effort in critically ill patients at different PEEP levels*
 Two notebooks accompany this publication. Click the associated buttons to directly go to these binders:
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReSurfEMG/binders/main?labpath=neuromuscular_coupling_quality_assessment_for_pub_synthetic_data.ipynb) - Synthetic data  
     This binder generates synthetic data online and allows for quick evaluation of the data analysis methodology in the paper.
